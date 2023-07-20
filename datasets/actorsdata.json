@@ -1,0 +1,222 @@
+{
+    "actors": [
+      {
+        "name": "Robert Downey Jr.",
+        "dob": "April 4, 1965",
+        "gender": "Male",
+        "bio": "Robert Downey Jr. is an American actor known for his portrayal of Tony Stark/Iron Man in the Marvel Cinematic Universe. He has received critical acclaim for his performances and has become one of the highest-paid actors in the industry.",
+        "movies": ["Iron Man", "Iron Man 2", "Iron Man 3", "The Avengers", "Avengers: Age of Ultron", "Avengers: Infinity War", "Avengers: Endgame", "Spider-Man: Homecoming", "Spider-Man: Far From Home"]
+      },
+      {
+        "name": "Gwyneth Paltrow",
+        "dob": "September 27, 1972",
+        "gender": "Female",
+        "bio": "Gwyneth Paltrow is an American actress and entrepreneur. She is known for her role as Pepper Potts in the Marvel Cinematic Universe. Paltrow has also appeared in numerous other films and has won several awards for her performances.",
+        "movies": ["Iron Man", "Iron Man 2", "The Avengers", "Iron Man 3", "Spider-Man: Homecoming", "Avengers: Infinity War", "Avengers: Endgame", "Spider-Man: Far From Home"]
+      },
+      {
+        "name": "Jeff Bridges",
+        "dob": "December 4, 1949",
+        "gender": "Male",
+        "bio": "Jeff Bridges is an American actor, singer, and producer. He has had a long and successful career in the entertainment industry, with notable roles in films such as 'Iron Man' and 'The Big Lebowski'. Bridges has received numerous accolades, including an Academy Award for Best Actor.",
+        "movies": ["Iron Man"]
+      },
+      {
+        "name": "Edward Norton",
+        "dob": "August 18, 1969",
+        "gender": "Male",
+        "bio": "Edward Norton is an American actor and filmmaker. He is known for his versatile performances in films such as 'Fight Club', 'American History X', and 'The Incredible Hulk', where he portrayed Bruce Banner. Norton has received critical acclaim for his acting skills.",
+        "movies": ["The Incredible Hulk"]
+      },
+      {
+        "name": "Liv Tyler",
+        "dob": "July 1, 1977",
+        "gender": "Female",
+        "bio": "Liv Tyler is an American actress and former model. She gained recognition for her roles in films such as 'Armageddon' and 'The Lord of the Rings' trilogy. Tyler portrayed Betty Ross in 'The Incredible Hulk' and has since appeared in various other projects.",
+        "movies": ["The Incredible Hulk"]
+      },
+      {
+        "name": "Tim Roth",
+        "dob": "May 14, 1961",
+        "gender": "Male",
+        "bio": "Tim Roth is an English actor and director. He is known for his roles in Quentin Tarantino's films, including 'Reservoir Dogs' and 'Pulp Fiction'. Roth portrayed Emil Blonsky/Abomination in 'The Incredible Hulk' and has appeared in numerous other movies and TV shows.",
+        "movies": ["The Incredible Hulk"]
+      },
+      {
+        "name": "Chris Hemsworth",
+        "dob": "August 11, 1983",
+        "gender": "Male",
+        "bio": "Chris Hemsworth is an Australian actor. He gained international recognition for his portrayal of Thor in the Marvel Cinematic Universe. Hemsworth's charismatic performance and physicality have made him a popular choice for action-oriented roles.",
+        "movies": ["Thor", "The Avengers", "Thor: The Dark World", "Avengers: Age of Ultron", "Thor: Ragnarok", "Avengers: Infinity War", "Avengers: Endgame"]
+      },
+      {
+        "name": "Natalie Portman",
+        "dob": "June 9, 1981",
+        "gender": "Female",
+        "bio": "Natalie Portman is an Israeli-American actress and filmmaker. She has received critical acclaim for her performances in films such as 'Black Swan' and 'Jackie'. Portman portrayed Jane Foster in the Thor films and has been involved in various other projects.",
+        "movies": ["Thor", "Thor: The Dark World", "Thor: Ragnarok", "Avengers: Endgame"]
+      },
+      {
+        "name": "Tom Hiddleston",
+        "dob": "February 9, 1981",
+        "gender": "Male",
+        "bio": "Tom Hiddleston is an English actor and producer. He is best known for his role as Loki in the Marvel Cinematic Universe. Hiddleston's portrayal of the complex and mischievous character has earned him a dedicated fan following.",
+        "movies": ["Thor", "The Avengers", "Thor: The Dark World", "Thor: Ragnarok", "Avengers: Infinity War", "Avengers: Endgame"]
+      },
+      {
+        "name": "Chris Evans",
+        "dob": "June 13, 1981",
+        "gender": "Male",
+        "bio": "Chris Evans is an American actor and filmmaker. He gained worldwide recognition for his portrayal of Steve Rogers/Captain America in the Marvel Cinematic Universe. Evans has also appeared in various other films and has received critical acclaim for his performances.",
+        "movies": ["Captain America: The First Avenger", "The Avengers", "Captain America: The Winter Soldier", "Avengers: Age of Ultron", "Captain America: Civil War", "Avengers: Infinity War", "Avengers: Endgame"]
+      },
+      {
+        "name": "Hayley Atwell",
+        "dob": "April 5, 1982",
+        "gender": "Female",
+        "bio": "Hayley Atwell is a British-American actress. She is known for her role as Peggy Carter in the Marvel Cinematic Universe. Atwell's portrayal of the strong and determined character has made her a fan favorite.",
+        "movies": ["Captain America: The First Avenger", "Captain America: The Winter Soldier", "Avengers: Endgame"]
+      },
+      {
+        "name": "Hugo Weaving",
+        "dob": "April 4, 1960",
+        "gender": "Male",
+        "bio": "Hugo Weaving is an Australian-English actor. He has appeared in numerous films, including 'The Matrix' trilogy, 'V for Vendetta', and 'The Lord of the Rings' trilogy. Weaving portrayed the villainous Red Skull in 'Captain America: The First Avenger'.",
+        "movies": ["Captain America: The First Avenger"]
+      },
+      {
+        "name": "Scarlett Johansson",
+        "dob": "November 22, 1984",
+        "gender": "Female",
+        "bio": "Scarlett Johansson is an American actress and singer. She is widely recognized for her role as Natasha Romanoff/Black Widow in the Marvel Cinematic Universe. Johansson has received critical acclaim for her performances and has been nominated for several awards.",
+        "movies": ["Iron Man 2", "The Avengers", "Captain America: The Winter Soldier", "Avengers: Age of Ultron", "Captain America: Civil War", "Avengers: Infinity War", "Avengers: Endgame", "Black Widow"]
+      },
+      {
+        "name": "Jeremy Renner",
+        "dob": "January 7, 1971",
+        "gender": "Male",
+        "bio": "Jeremy Renner is an American actor and musician. He is known for his roles in films such as 'The Hurt Locker' and 'Arrival'. Renner portrayed Clint Barton/Hawkeye in the Marvel Cinematic Universe and has also appeared in other notable projects.",
+        "movies": ["Thor", "The Avengers", "Avengers: Age of Ultron", "Captain America: Civil War", "Avengers: Endgame", "Hawkeye"]
+      },
+      {
+        "name": "Chris Pratt",
+        "dob": "June 21, 1979",
+        "gender": "Male",
+        "bio": "Chris Pratt is an American actor known for his charismatic performances in films such as 'Guardians of the Galaxy' and 'Jurassic World'. Pratt portrayed Peter Quill/Star-Lord in the Marvel Cinematic Universe, earning him widespread acclaim and popularity.",
+        "movies": ["Guardians of the Galaxy", "Guardians of the Galaxy Vol. 2", "Avengers: Infinity War", "Avengers: Endgame", "Thor: Love and Thunder"]
+      },
+      {
+        "name": "Zoe Saldana",
+        "dob": "June 19, 1978",
+        "gender": "Female",
+        "bio": "Zoe Saldana is an American actress and dancer. She is best known for her roles as Gamora in the Marvel Cinematic Universe and Neytiri in the 'Avatar' film series. Saldana's performances have received praise for her ability to bring depth to her characters.",
+        "movies": ["Guardians of the Galaxy", "Guardians of the Galaxy Vol. 2", "Avengers: Infinity War", "Avengers: Endgame", "Thor: Love and Thunder"]
+      },
+      {
+        "name": "Dave Bautista",
+        "dob": "January 18, 1969",
+        "gender": "Male",
+        "bio": "Dave Bautista is an American actor and former professional wrestler. He gained recognition for his portrayal of Drax the Destroyer in the Marvel Cinematic Universe. Bautista has since appeared in other films and has been praised for his comedic timing and physicality.",
+        "movies": ["Guardians of the Galaxy", "Guardians of the Galaxy Vol. 2", "Avengers: Infinity War", "Avengers: Endgame", "Thor: Love and Thunder"]
+      },
+      {
+        "name": "Vin Diesel",
+        "dob": "July 18, 1967",
+        "gender": "Male",
+        "bio": "Vin Diesel is an American actor, producer, and filmmaker. He is known for his portrayal of Groot in the 'Guardians of the Galaxy' films and the 'Avengers' series. Diesel has also starred in the 'Fast & Furious' franchise and has a dedicated fan base.",
+        "movies": ["Guardians of the Galaxy", "Guardians of the Galaxy Vol. 2", "Avengers: Infinity War", "Avengers: Endgame", "Thor: Love and Thunder"]
+      },
+      {
+        "name": "Bradley Cooper",
+        "dob": "January 5, 1975",
+        "gender": "Male",
+        "bio": "Bradley Cooper is an American actor and filmmaker. He gained recognition for his role as Rocket Raccoon in the 'Guardians of the Galaxy' films and the 'Avengers' series. Cooper has received critical acclaim for his performances in various other projects.",
+        "movies": ["Guardians of the Galaxy", "Guardians of the Galaxy Vol. 2", "Avengers: Infinity War", "Avengers: Endgame"]
+      },
+      {
+        "name": "Mark Ruffalo",
+        "dob": "November 22, 1967",
+        "gender": "Male",
+        "bio": "Mark Ruffalo is an American actor, producer, and environmental activist. He is known for his portrayal of Bruce Banner/Hulk in the Marvel Cinematic Universe. Ruffalo's performances have been praised for bringing depth and humanity to the character.",
+        "movies": ["The Avengers", "Iron Man 3", "Avengers: Age of Ultron", "Thor: Ragnarok", "Avengers: Infinity War", "Avengers: Endgame"]
+      },
+      {
+        "name": "Ben Kingsley",
+        "dob": "December 31, 1943",
+        "gender": "Male",
+        "bio": "Ben Kingsley is an English actor. He has appeared in numerous films, including 'Gandhi', for which he won an Academy Award for Best Actor. Kingsley portrayed the Mandarin in 'Iron Man 3' and has been recognized for his versatile performances.",
+        "movies": ["Iron Man 3", "Shang-Chi and the Legend of the Ten Rings"]
+      },
+      {
+        "name": "Chadwick Boseman",
+        "dob": "November 29, 1976",
+        "gender": "Male",
+        "bio": "Chadwick Boseman was an American actor. He gained international fame for his portrayal of T'Challa/Black Panther in the Marvel Cinematic Universe. Boseman's performance was widely acclaimed, and he became an icon for his significant contribution to black representation in film.",
+        "movies": ["Captain America: Civil War", "Black Panther", "Avengers: Infinity War", "Avengers: Endgame", "Black Widow"]
+      },
+      {
+        "name": "Michael B. Jordan",
+        "dob": "February 9, 1987",
+        "gender": "Male",
+        "bio": "Michael B. Jordan is an American actor and producer. He gained recognition for his roles in films such as 'Fruitvale Station' and 'Creed'. Jordan portrayed Erik Killmonger in 'Black Panther' and has been praised for his powerful performances.",
+        "movies": ["Black Panther"]
+      },
+      {
+        "name": "Lupita Nyong'o",
+        "dob": "March 1, 1983",
+        "gender": "Female",
+        "bio": "Lupita Nyong'o is a Kenyan-Mexican actress and producer. She gained critical acclaim and won an Academy Award for her role in '12 Years a Slave'. Nyong'o portrayed Nakia in 'Black Panther' and has been recognized for her talent and advocacy.",
+        "movies": ["Black Panther", "Avengers: Infinity War", "Avengers: Endgame"]
+      },
+      {
+        "name": "Danai Gurira",
+        "dob": "February 14, 1978",
+        "gender": "Female",
+        "bio": "Danai Gurira is an American-Zimbabwean actress and playwright. She is best known for her role as Okoye in the Marvel Cinematic Universe. Gurira's performances have been praised for her fierce and captivating presence on screen.",
+        "movies": ["Black Panther", "Avengers: Infinity War", "Avengers: Endgame"]
+      },
+      {
+        "name": "Tom Holland",
+        "dob": "June 1, 1996",
+        "gender": "Male",
+        "bio": "Tom Holland is an English actor and dancer. He gained international recognition for his portrayal of Peter Parker/Spider-Man in the Marvel Cinematic Universe. Holland's youthful charm and acrobatic skills have made him a fan favorite.",
+        "movies": ["Captain America: Civil War", "Spider-Man: Homecoming", "Spider-Man: Far From Home", "Spider-Man: No Way Home"]
+      },
+      {
+        "name": "Zendaya",
+        "dob": "September 1, 1996",
+        "gender": "Female",
+        "bio": "Zendaya is an American actress, singer, and model. She rose to prominence for her role in the Disney Channel series 'Shake It Up' and has since appeared in films such as 'Spider-Man: Homecoming' and 'Dune'. Zendaya's talent and activism have garnered widespread acclaim.",
+        "movies": ["Spider-Man: Homecoming", "Spider-Man: Far From Home", "Spider-Man: No Way Home"]
+      },
+      {
+        "name": "Jake Gyllenhaal",
+        "dob": "December 19, 1980",
+        "gender": "Male",
+        "bio": "Jake Gyllenhaal is an American actor and producer. He has received critical acclaim for his performances in films such as 'Brokeback Mountain', 'Nightcrawler', and 'Prisoners'. Gyllenhaal portrayed Quentin Beck/Mysterio in 'Spider-Man: Far From Home'.",
+        "movies": ["Spider-Man: Far From Home"]
+      },
+      {
+        "name": "Benedict Cumberbatch",
+        "dob": "July 19, 1976",
+        "gender": "Male",
+        "bio": "Benedict Cumberbatch is an English actor and producer. He gained recognition for his portrayal of Sherlock Holmes in the BBC series 'Sherlock' and has since appeared in numerous films, including 'Doctor Strange'. Cumberbatch's performances have been praised for his versatility and intensity.",
+        "movies": ["Doctor Strange", "Thor: Ragnarok", "Avengers: Infinity War", "Avengers: Endgame", "Spider-Man: No Way Home"]
+      },
+      {
+        "name": "Rachel McAdams",
+        "dob": "November 17, 1978",
+        "gender": "Female",
+        "bio": "Rachel McAdams is a Canadian actress. She gained international fame for her roles in films such as 'Mean Girls', 'The Notebook', and 'Midnight in Paris'. McAdams portrayed Christine Palmer in 'Doctor Strange' and has been recognized for her talent and range.",
+        "movies": ["Doctor Strange"]
+      },
+      {
+        "name": "Chiwetel Ejiofor",
+        "dob": "July 10, 1977",
+        "gender": "Male",
+        "bio": "Chiwetel Ejiofor is a British actor and filmmaker. He has appeared in films such as '12 Years a Slave' and 'The Martian', earning critical acclaim for his performances. Ejiofor portrayed Karl Mordo in 'Doctor Strange' and has been praised for his acting skills.",
+        "movies": ["Doctor Strange"]
+      }
+    ]
+  }
+  

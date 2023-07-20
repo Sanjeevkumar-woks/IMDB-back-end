@@ -1,0 +1,47 @@
+{
+    "producers": [
+      {
+        "name": "Kevin Feige",
+        "gender": "Male",
+        "bio": "Kevin Feige is an American film producer and president of Marvel Studios. He is known for his work in producing the Marvel Cinematic Universe films. Feige has played a pivotal role in the success of the franchise and has been praised for his ability to oversee the interconnected storytelling.",
+        "movies": ["Iron Man", "The Incredible Hulk", "Iron Man 2", "Thor", "Captain America: The First Avenger", "The Avengers", "Iron Man 3", "Thor: The Dark World", "Captain America: The Winter Soldier", "Guardians of the Galaxy", "Avengers: Age of Ultron", "Ant-Man", "Captain America: Civil War", "Doctor Strange", "Guardians of the Galaxy Vol. 2", "Spider-Man: Homecoming", "Thor: Ragnarok", "Black Panther", "Avengers: Infinity War", "Ant-Man and The Wasp", "Captain Marvel", "Avengers: Endgame", "Spider-Man: Far From Home", "Black Widow", "Shang-Chi and the Legend of the Ten Rings", "Eternals", "Spider-Man: No Way Home"]
+      },
+      {
+        "name": "Amy Pascal",
+        "gender": "Female",
+        "bio": "Amy Pascal is an American film producer and business executive. She is known for her work in producing various Marvel films in collaboration with Marvel Studios. Pascal has been involved in the development and production of several successful projects in the Marvel Cinematic Universe.",
+        "movies": ["Spider-Man: Homecoming", "Spider-Man: Far From Home", "Spider-Man: No Way Home", "Venom", "Venom: Let There Be Carnage"]
+      },
+      {
+        "name": "Victoria Alonso",
+        "gender": "Female",
+        "bio": "Victoria Alonso is an Argentine film producer and executive vice president of production at Marvel Studios. She has been involved in the production of numerous Marvel films and has played a crucial role in the expansion of the Marvel Cinematic Universe.",
+        "movies": ["Iron Man", "Iron Man 2", "Thor", "Captain America: The First Avenger", "The Avengers", "Iron Man 3", "Thor: The Dark World", "Captain America: The Winter Soldier", "Guardians of the Galaxy", "Avengers: Age of Ultron", "Ant-Man", "Captain America: Civil War", "Doctor Strange", "Guardians of the Galaxy Vol. 2", "Spider-Man: Homecoming", "Thor: Ragnarok", "Black Panther", "Avengers: Infinity War", "Ant-Man and The Wasp", "Captain Marvel", "Avengers: Endgame", "Spider-Man: Far From Home", "Black Widow", "Shang-Chi and the Legend of the Ten Rings", "Eternals", "Spider-Man: No Way Home"]
+      },
+      {
+        "name": "Louis D'Esposito",
+        "gender": "Male",
+        "bio": "Louis D'Esposito is an American film producer and co-president of Marvel Studios. He has been involved in the production of several Marvel films and has contributed to the success of the Marvel Cinematic Universe.",
+        "movies": ["Iron Man", "The Incredible Hulk", "Iron Man 2", "Thor", "Captain America: The First Avenger", "The Avengers", "Iron Man 3", "Thor: The Dark World", "Captain America: The Winter Soldier", "Guardians of the Galaxy", "Avengers: Age of Ultron", "Ant-Man", "Captain America: Civil War", "Doctor Strange", "Guardians of the Galaxy Vol. 2", "Spider-Man: Homecoming", "Thor: Ragnarok", "Black Panther", "Avengers: Infinity War", "Ant-Man and The Wasp", "Captain Marvel", "Avengers: Endgame", "Spider-Man: Far From Home", "Black Widow", "Shang-Chi and the Legend of the Ten Rings", "Eternals", "Spider-Man: No Way Home"]
+      },
+      {
+        "name": "Stephen Broussard",
+        "gender": "Male",
+        "bio": "Stephen Broussard is an American film producer known for his work in producing Marvel films. He has been involved in the production of several successful projects in the Marvel Cinematic Universe and has contributed to the franchise's ongoing success.",
+        "movies": ["Iron Man", "Iron Man 2", "Thor", "Captain America: The First Avenger", "The Avengers", "Iron Man 3", "Thor: The Dark World", "Captain America: The Winter Soldier", "Guardians of the Galaxy", "Ant-Man", "Captain America: Civil War", "Doctor Strange", "Guardians of the Galaxy Vol. 2", "Spider-Man: Homecoming", "Thor: Ragnarok", "Black Panther", "Ant-Man and The Wasp", "Captain Marvel", "Avengers: Endgame", "Spider-Man: Far From Home", "Black Widow", "Shang-Chi and the Legend of the Ten Rings", "Eternals", "Spider-Man: No Way Home"]
+      },
+      {
+        "name": "Nate Moore",
+        "gender": "Male",
+        "bio": "Nate Moore is an American film producer and vice president of production and development at Marvel Studios. He has been involved in the production of several Marvel films and has played a key role in the expansion of the Marvel Cinematic Universe.",
+        "movies": ["Captain America: The Winter Soldier", "Captain America: Civil War", "Black Panther", "Avengers: Infinity War", "Avengers: Endgame", "Spider-Man: Far From Home", "Black Widow", "Shang-Chi and the Legend of the Ten Rings", "Eternals", "Spider-Man: No Way Home"]
+      },
+      {
+        "name": "Brad Winderbaum",
+        "gender": "Male",
+        "bio": "Brad Winderbaum is an American film producer known for his work in producing Marvel films. He has been involved in the production of several successful projects in the Marvel Cinematic Universe and has contributed to the franchise's ongoing success.",
+        "movies": ["Thor: The Dark World", "Captain America: The Winter Soldier", "Captain America: Civil War", "Doctor Strange", "Guardians of the Galaxy Vol. 2", "Thor: Ragnarok", "Avengers: Infinity War", "Ant-Man and The Wasp", "Avengers: Endgame", "Black Widow", "Shang-Chi and the Legend of the Ten Rings", "Eternals", "Spider-Man: No Way Home"]
+      }
+    ]
+  }
+  

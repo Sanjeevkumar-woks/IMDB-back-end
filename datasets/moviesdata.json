@@ -1,0 +1,213 @@
+{
+    "movies": [
+      {
+        "name": "Iron Man",
+        "year_of_release": 2008,
+        "plot": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_.jpg",
+        "actors": ["Robert Downey Jr.", "Gwyneth Paltrow", "Jeff Bridges"],
+        "producers": ["Kevin Feige", "Avi Arad"]
+      },
+      {
+        "name": "The Incredible Hulk",
+        "year_of_release": 2008,
+        "plot": "Scientist Bruce Banner transforms into a powerful green creature known as the Hulk while on the run from the military.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTUyNzk3MjA1OF5BMl5BanBnXkFtZTcwMTE1Njg2MQ@@._V1_.jpg",
+        "actors": ["Edward Norton", "Liv Tyler", "Tim Roth"],
+        "producers": ["Kevin Feige", "Gale Anne Hurd"]
+      },
+      {
+        "name": "Iron Man 2",
+        "year_of_release": 2010,
+        "plot": "Tony Stark faces pressure from the government, rival industries, and a new villain while dealing with his declining health.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZGVkNDAyM2EtYzYxYy00ZWUxLTgwMjgtY2VmODE5OTk3N2M5XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_.jpg",
+        "actors": ["Robert Downey Jr.", "Gwyneth Paltrow", "Don Cheadle"],
+        "producers": ["Kevin Feige"]
+      },
+      {
+        "name": "Thor",
+        "year_of_release": 2011,
+        "plot": "The powerful but arrogant god Thor is banished to Earth and must learn what it takes to be a true hero.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOGE4NzU1YTAtNzA3Mi00ZTA2LTg2YmYtMDJmMThiMjlkYjg2XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_FMjpg_UX1000_.jpg",
+        "actors": ["Chris Hemsworth", "Natalie Portman", "Tom Hiddleston"],
+        "producers": ["Kevin Feige", "Patricia Whitcher"]
+      },
+      {
+        "name": "Captain America: The First Avenger",
+        "year_of_release": 2011,
+        "plot": "Steve Rogers volunteers for an experimental program and becomes the super-soldier known as Captain America, battling a Nazi organization called Hydra during World War II.",
+        "poster": "https://example.com/posters/captain_america_the_first_avenger.jpg",
+        "actors": ["Chris Evans", "Hayley Atwell", "Hugo Weaving"],
+        "producers": ["Kevin Feige"]
+      },
+      {
+        "name": "The Avengers",
+        "year_of_release": 2012,
+        "plot": "Earth's mightiest heroes, including Iron Man, Captain America, Thor, Hulk, Black Widow, and Hawkeye, join forces to save the world from Loki and his alien army.",
+        "poster": "https://example.com/posters/the_avengers.jpg",
+        "actors": ["Robert Downey Jr.", "Chris Evans", "Chris Hemsworth", "Mark Ruffalo", "Scarlett Johansson", "Jeremy Renner"],
+        "producers": ["Kevin Feige", "Jon Favreau"]
+      },
+      {
+        "name": "Iron Man 3",
+        "year_of_release": 2013,
+        "plot": "Tony Stark battles a formidable terrorist called the Mandarin while dealing with his own personal demons.",
+        "poster": "https://example.com/posters/iron_man_3.jpg",
+        "actors": ["Robert Downey Jr.", "Gwyneth Paltrow", "Ben Kingsley"],
+        "producers": ["Kevin Feige"]
+      },
+      {
+        "name": "Thor: The Dark World",
+        "year_of_release": 2013,
+        "plot": "Thor teams up with his mischievous brother Loki to protect the universe from a dark elf and his destructive weapon.",
+        "poster": "https://example.com/posters/thor_the_dark_world.jpg",
+        "actors": ["Chris Hemsworth", "Natalie Portman", "Tom Hiddleston"],
+        "producers": ["Kevin Feige"]
+      },
+      {
+        "name": "Captain America: The Winter Soldier",
+        "year_of_release": 2014,
+        "plot": "Captain America teams up with Black Widow and the Falcon to expose a conspiracy within S.H.I.E.L.D. while facing a powerful assassin known as the Winter Soldier.",
+        "poster": "https://example.com/posters/captain_america_the_winter_soldier.jpg",
+        "actors": ["Chris Evans", "Scarlett Johansson", "Sebastian Stan"],
+        "producers": ["Kevin Feige"]
+      },
+      {
+        "name": "Guardians of the Galaxy",
+        "year_of_release": 2014,
+        "plot": "A group of intergalactic misfits, including Star-Lord, Gamora, Drax, Rocket, and Groot, team up to save the galaxy from a powerful orb.",
+        "poster": "https://example.com/posters/guardians_of_the_galaxy.jpg",
+        "actors": ["Chris Pratt", "Zoe Saldana", "Dave Bautista", "Vin Diesel", "Bradley Cooper"],
+        "producers": ["Kevin Feige"]
+      },
+      {
+        "name": "Avengers: Age of Ultron",
+        "year_of_release": 2015,
+        "plot": "The Avengers must stop the villainous Ultron from enacting his plan to wipe out humanity.",
+        "poster": "https://example.com/posters/avengers_age_of_ultron.jpg",
+        "actors": ["Robert Downey Jr.", "Chris Evans", "Chris Hemsworth", "Mark Ruffalo", "Scarlett Johansson", "Jeremy Renner"],
+        "producers": ["Kevin Feige"]
+      },
+      {
+        "name": "Ant-Man",
+        "year_of_release": 2015,
+        "plot": "A skilled thief named Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, protect the secret behind the Ant-Man suit from a new generation of threats.",
+        "poster": "https://example.com/posters/ant-man.jpg",
+        "actors": ["Paul Rudd", "Evangeline Lilly", "Michael Douglas"],
+        "producers": ["Kevin Feige"]
+      },
+      {
+        "name": "Captain America: Civil War",
+        "year_of_release": 2016,
+        "plot": "Captain America and Iron Man find themselves on opposite sides of a political conflict that splits the Avengers into two factions.",
+        "poster": "https://example.com/posters/captain_america_civil_war.jpg",
+        "actors": ["Chris Evans", "Robert Downey Jr.", "Scarlett Johansson"],
+        "producers": ["Kevin Feige"]
+      },
+      {
+        "name": "Doctor Strange",
+        "year_of_release": 2016,
+        "plot": "Dr. Stephen Strange, a brilliant but arrogant neurosurgeon, discovers the mystical arts and becomes the Sorcerer Supreme, defending the Earth against supernatural threats.",
+        "poster": "https://example.com/posters/doctor_strange.jpg",
+        "actors": ["Benedict Cumberbatch", "Rachel McAdams", "Chiwetel Ejiofor"],
+        "producers": ["Kevin Feige"]
+      },
+      {
+        "name": "Guardians of the Galaxy Vol. 2",
+        "year_of_release": 2017,
+        "plot": "The Guardians of the Galaxy embark on a journey to unravel the mystery of Peter Quill's parentage.",
+        "poster": "https://example.com/posters/guardians_of_the_galaxy_vol_2.jpg",
+        "actors": ["Chris Pratt", "Zoe Saldana", "Dave Bautista", "Vin Diesel", "Bradley Cooper"],
+        "producers": ["Kevin Feige"]
+      },
+      {
+        "name": "Spider-Man: Homecoming",
+        "year_of_release": 2017,
+        "plot": "Peter Parker balances his life as a high school student and his alter ego Spider-Man, facing a new threat known as the Vulture.",
+        "poster": "https://example.com/posters/spiderman_homecoming.jpg",
+        "actors": ["Tom Holland", "Michael Keaton", "Zendaya"],
+        "producers": ["Kevin Feige", "Amy Pascal"]
+      },
+      {
+        "name": "Thor: Ragnarok",
+        "year_of_release": 2017,
+        "plot": "Thor finds himself imprisoned on the planet Sakaar and must assemble a team to stop the villainous Hela and prevent the destruction of Asgard.",
+        "poster": "https://example.com/posters/thor_ragnarok.jpg",
+        "actors": ["Chris Hemsworth", "Tom Hiddleston", "Cate Blanchett"],
+        "producers": ["Kevin Feige"]
+      },
+      {
+        "name": "Black Panther",
+        "year_of_release": 2018,
+        "plot": "T'Challa, the king of Wakanda, rises to the throne and must defend his nation against a powerful enemy.",
+        "poster": "https://example.com/posters/black_panther.jpg",
+        "actors": ["Chadwick Boseman", "Michael B. Jordan", "Lupita Nyong'o", "Danai Gurira"],
+        "producers": ["Kevin Feige", "Nate Moore"]
+      },
+      {
+        "name": "Avengers: Infinity War",
+        "year_of_release": 2018,
+        "plot": "The Avengers and their allies must come together to stop the powerful Thanos from acquiring all the Infinity Stones and wiping out half of all life in the universe.",
+        "poster": "https://example.com/posters/avengers_infinity_war.jpg",
+        "actors": ["Robert Downey Jr.", "Chris Hemsworth", "Mark Ruffalo", "Chris Evans", "Scarlett Johansson", "Josh Brolin"],
+        "producers": ["Kevin Feige"]
+      },
+      {
+        "name": "Ant-Man and the Wasp",
+        "year_of_release": 2018,
+        "plot": "Scott Lang teams up with Hope van Dyne as the new Wasp on a mission to uncover secrets from their past while dealing with a new threat.",
+        "poster": "https://example.com/posters/ant-man_and_the_wasp.jpg",
+        "actors": ["Paul Rudd", "Evangeline Lilly", "Michael Douglas"],
+        "producers": ["Kevin Feige"]
+      },
+      {
+        "name": "Captain Marvel",
+        "year_of_release": 2019,
+        "plot": "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.",
+        "poster": "https://example.com/posters/captain_marvel.jpg",
+        "actors": ["Brie Larson", "Samuel L. Jackson", "Ben Mendelsohn"],
+        "producers": ["Kevin Feige"]
+      },
+      {
+        "name": "Avengers: Endgame",
+        "year_of_release": 2019,
+        "plot": "The Avengers and their allies gather one last time to reverse the devastating effects of Thanos' snap and restore balance to the universe.",
+        "poster": "https://example.com/posters/avengers_endgame.jpg",
+        "actors": ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo", "Chris Hemsworth", "Scarlett Johansson", "Josh Brolin"],
+        "producers": ["Kevin Feige"]
+      },
+      {
+        "name": "Spider-Man: Far From Home",
+        "year_of_release": 2019,
+        "plot": "Peter Parker goes on a school trip to Europe but is recruited by Nick Fury to help uncover the mystery of elemental creatures attacking the continent.",
+        "poster": "https://example.com/posters/spiderman_far_from_home.jpg",
+        "actors": ["Tom Holland", "Zendaya", "Jake Gyllenhaal"],
+        "producers": ["Kevin Feige", "Amy Pascal"]
+      },
+      {
+        "name": "Black Widow",
+        "year_of_release": 2021,
+        "plot": "Natasha Romanoff confronts the dark parts of her past when a dangerous conspiracy arises, forcing her to confront her past as a spy and the broken relationships left in her wake.",
+        "poster": "https://example.com/posters/black_widow.jpg",
+        "actors": ["Scarlett Johansson", "Florence Pugh", "David Harbour"],
+        "producers": ["Kevin Feige"]
+      },
+      {
+        "name": "Shang-Chi and the Legend of the Ten Rings",
+        "year_of_release": 2021,
+        "plot": "Shang-Chi must confront his past and take on the Ten Rings organization to protect the world from their sinister plans.",
+        "poster": "https://example.com/posters/shang_chi_and_the_legend_of_the_ten_rings.jpg",
+        "actors": ["Simu Liu", "Awkwafina", "Tony Leung"],
+        "producers": ["Kevin Feige"]
+      },
+      {
+        "name": "Eternals",
+        "year_of_release": 2021,
+        "plot": "The Eternals, an immortal alien race, reunite to protect humanity from their ancient enemies, the Deviants.",
+        "poster": "https://example.com/posters/eternals.jpg",
+        "actors": ["Gemma Chan", "Richard Madden", "Angelina Jolie"],
+        "producers": ["Kevin Feige"]
+      }
+    ]
+  }
+  
